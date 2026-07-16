@@ -80,3 +80,5 @@ decimal.addEventListener('click', ()=>{
     }
    
 })
+
+let a = 20
