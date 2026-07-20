@@ -65,14 +65,6 @@ percentage.addEventListener('click', ()=>{
     display.innerHTML = display.innerHTML / 100
 })
 
-
-// plusMinus.addEventListener('click', ()=>{
-//     display.innerHTML *=  -1
-    // display.innerHTML  = Math.sqrt(display.innerHTML)
-    // display.innerHTML *= display.innerHTML
-// })
-
-
 decimal.addEventListener('click', ()=>{
     if(count === 0){
          display.innerHTML +=decimal.innerHTML
@@ -81,4 +73,3 @@ decimal.addEventListener('click', ()=>{
    
 })
 
-let a = 20
